@@ -1,0 +1,6 @@
+int main(){
+int a=0;
+string b;
+int c= a+d;
+if(a<12) 
+}
